@@ -1,12 +1,12 @@
 
 :root{
-    --maincolor:#FF0000;
+    --maincolor:#FFFFFF;
     --secondarycolor:#336B87;
 
     --bordercolor: #c1c1c1;
 
     --mainText:rgb(12, 12, 12);
-    --secondaryText:#f01281;
+    --secondaryText:#24f012;
 
     --themeDotBorder:#24292e;
     --previewBG: rgb(251,249,243,0.8);
