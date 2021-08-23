@@ -28,13 +28,13 @@ h1, h2, h3, h4, h5, h6, strong{
      color: var(--mainText);
      font-family: 'Tenali Ramakrishna', sans-serif;
      font-weight:500px ;
-    font-size: large;
+    font-size: larger;
 }
 
 p, li, span, label, input, textarea{
     color: var(--secondaryText);
     font-family: 'Besley', serif;
-    font-size: larger;
+    font-size: large;
 }
 
 a{
