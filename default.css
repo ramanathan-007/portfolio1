@@ -1,21 +1,19 @@
 :root{
-    --maincolor:rgba(235, 235, 235, 0.836);
-    --secondarycolor:#ffffff;
+    --maincolor:black;
+    --secondarycolor:#f7022a;
 
-    --bordercolor: #c1c1c1;
+    --bordercolor: #161914;
 
-    --mainText:rgb(12, 12, 12);
-    --secondaryText:#f01281;
+    --mainText:#fff;
+    --secondaryText:#eeeeee;
 
-    --themeDotBorder:#24292e;
-    --previewBG: rgb(251,249,243,0.8);
-    --previewshadow: #f0ead6;
+    --themeDotBorder:#fff;
+    --previewBG: rgb(81,90,72,0.8);
+    --previewshadow: #2a2f25;
 
-    --btncolor: black;
+    --btncolor:#0bec0b;
 
 }
-
-
 html, body{
     padding: 0;
     margin: 0;
