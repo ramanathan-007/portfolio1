@@ -197,7 +197,7 @@ cursor: pointer;
     background-color: rgb(9, 9, 150);
 }
 #green-mode{
-    background-color:rgba(235, 235, 235, 0.836);
+    background-color:#FF0000;
 }
 #purple-mode{
     background-color:#800080;
