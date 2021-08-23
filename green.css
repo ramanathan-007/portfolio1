@@ -1,16 +1,17 @@
+
 :root{
-    --maincolor:black;
-    --secondarycolor:#f7022a;
+    --maincolor:rgba(235, 235, 235, 0.836);
+    --secondarycolor:#ffffff;
 
-    --bordercolor: #161914;
+    --bordercolor: #c1c1c1;
 
-    --mainText:#fff;
-    --secondaryText:#eeeeee;
+    --mainText:rgb(12, 12, 12);
+    --secondaryText:#f01281;
 
-    --themeDotBorder:#fff;
-    --previewBG: rgb(81,90,72,0.8);
-    --previewshadow: #2a2f25;
+    --themeDotBorder:#24292e;
+    --previewBG: rgb(251,249,243,0.8);
+    --previewshadow: #f0ead6;
 
-    --btncolor:#0bec0b;
+    --btncolor: black;
 
 }
