@@ -264,8 +264,8 @@ cursor: pointer;
 .about-wrapper{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(320px,1fr));
-    padding-top: 50px;
-    padding-bottom: 70px;
+    padding-top: 60px;
+    padding-bottom: 90px;
     gap:100px;
 }
 
