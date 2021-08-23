@@ -1,6 +1,6 @@
 :root{
-    --maincolor:#eaeaea;
-    --secondarycolor:#fff;
+    --maincolor:rgba(235, 235, 235, 0.836);
+    --secondarycolor:#ffffff;
 
     --bordercolor: #c1c1c1;
 
@@ -193,7 +193,7 @@ cursor: pointer;
 }
 
 #light-mode{
-    background-color: #fff;
+    background-color:rgba(235, 235, 235, 0.836);
 }
 #blue-mode{
     background-color: rgb(9, 9, 150);
