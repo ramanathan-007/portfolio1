@@ -160,7 +160,7 @@ h{font-size: 16px;}
 #profile_pic{
     display: block;
     margin: 0 auto;
-    height: 200px;
+    height: 300px;
     width: 200px;
     object-fit: cover;
     border: 2px solid var(--bordercolor);
